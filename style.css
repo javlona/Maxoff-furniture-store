@@ -23,15 +23,16 @@ body {
 }
 
 .banner-area {
-    background: url(images/header.jpg);
-    height: 80vh;
-    background-position: center;
+    background: url(images/header.jpg), no-repeat;
+    height: 100vh;
+    background-position: 50% 60%;
     background-size: cover;
     display: flex;
     justify-content: center;
     align-items: center;
     text-align: center;
     flex-direction: column;
+    /* width:100%; */
 }
 
 .banner-area h1{
@@ -75,7 +76,7 @@ a.button:hover {
 
 }
 
-# title h2 {
+#title h2 {
     color: #333;
     font-weight: 700;
 }
