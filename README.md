@@ -1,2 +1,4 @@
-# Initial page
+# MaxOff Furniture store 
+
+https://joeclaap.github.io/Maxoff/
 
