@@ -1,4 +1,4 @@
 # MaxOff Furniture store 
 
-https://joeclaap.github.io/Maxoff/
+https://javlona.github.io/Maxoff/
 
